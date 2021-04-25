@@ -1,5 +1,4 @@
 import json
-
 import mail
 
 with open('config.json') as f:

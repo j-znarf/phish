@@ -1,0 +1,6 @@
+{
+    "host": "string",
+    "port": "number",
+    "sender": "string",
+    "receivers": ["string"]
+}
